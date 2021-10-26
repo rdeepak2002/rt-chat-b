@@ -28,7 +28,6 @@ const MessageComponent = (props) =>{
             <p className = "username">{props.username}</p>
             <p className = "message">{props.message}</p>
         </div>
-
     );
 }
 
