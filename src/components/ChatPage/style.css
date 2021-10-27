@@ -3,6 +3,7 @@
     height: 100vh;
   
     display: flex;
+    color:white;
   }
   
   .chat-container{
@@ -58,7 +59,6 @@
   .message-input{
     flex-grow: 1;
   }
-  
   
   .home-header{
     display: flex;
